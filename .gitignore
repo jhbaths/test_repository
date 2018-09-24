@@ -1,0 +1,8 @@
+Debug
+Release
+road_detect/Debug
+road_detect/Release
+*.sdf
+*.opensdf
+*.suo
+
